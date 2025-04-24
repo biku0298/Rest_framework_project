@@ -1,1 +1,0 @@
-web: gunicorn Rest_framework_project.wsgi
